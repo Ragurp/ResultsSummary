@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component
+# [Frontend Mentor - Results summary component](https://ragurp.github.io/ResultsSummary/)
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
